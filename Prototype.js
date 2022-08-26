@@ -68,3 +68,4 @@ function programmer(name, id, salary,language){
 }
 var kaushal = new programmer("kaushal",15,15000,'java');
 console.log(kaushal);
+// bcgcf
